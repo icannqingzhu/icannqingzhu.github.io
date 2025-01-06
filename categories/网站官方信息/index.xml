@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>网站官方信息 on 罗布快讯</title>
+        <link>http://localhost:11388/categories/%E7%BD%91%E7%AB%99%E5%AE%98%E6%96%B9%E4%BF%A1%E6%81%AF/</link>
+        <description>Recent content in 网站官方信息 on 罗布快讯</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>罗布快讯</copyright>
+        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:11388/categories/%E7%BD%91%E7%AB%99%E5%AE%98%E6%96%B9%E4%BF%A1%E6%81%AF/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>网站停摆致歉</title>
+        <link>http://localhost:11388/p/test-chinese/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:11388/p/test-chinese/</guid>
+        <description>&lt;p&gt;各位罗布快讯的读者们，由于小快选择的IDC服务商恶意删除了网站的所有信息&lt;strong&gt;包含数据库&lt;/strong&gt;，所以小站暂时停摆了一段时间。&lt;/p&gt;
+&lt;p&gt;目前小快已经将网站重新搭建起来了，现在使用的搭建方法是&lt;em&gt;Github Pages+Hexo&lt;/em&gt;，按理来说，网站可能一直不会消失了    &lt;del&gt;除了Github的大爹微软倒闭了&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;我们会在近期同步Roblox官网的新博客，还请各位给予我们一次重新来过的机会！谢谢！&lt;/p&gt;
+&lt;p&gt;&amp;ndash;罗布快讯团队&lt;/p&gt;
+&lt;p&gt;&amp;ndash;2025年1月6日&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
